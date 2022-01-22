@@ -1,5 +1,4 @@
 # Delivery_Cart
-[TOC]
 ## Download the code
 ```
 git clone https://github.com/evanshih1999/Delivery_Cart.git
