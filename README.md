@@ -136,7 +136,8 @@ $ python3 qrcode.py
 
 ```
 ##### for face recognition
-1. create your own dir in train_dir to store images of  someone's face
+1. create a dir named 'train_dir'
+2. create your own dir in train_dir to store images of  someone's face
     (e.g. creat a dir named 'evan') to store images of evan's faces
 3. load images into your dir and name them in particular order
     (e.g. evan1.jpg, evan2.jpg ... in dir named evan)
